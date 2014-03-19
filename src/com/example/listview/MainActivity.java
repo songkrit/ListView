@@ -1,18 +1,9 @@
 package com.example.listview;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
-
 import android.os.Bundle;
 import android.app.Activity;
-import android.database.DataSetObserver;
 import android.view.Menu;
-import android.view.View;
-import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.ListAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends Activity {
